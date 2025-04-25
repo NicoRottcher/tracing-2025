@@ -56,9 +56,9 @@ if not os.path.isfile(DATABASE_DIR()):
             "Succesfully unzipped database",
             "\x1b[0m",
         )
-    else:
-        print(f'Could not find database file nor zip-archive. '
-              f'The database file should be located at {"$home$"/REL_DIR_SQLITE}')
+    #else:
+    #    print(f'Could not find sqlite database file nor zip-archive. '
+    #          f'The database file should be located at {"$home$"/REL_DIR_SQLITE}')
 
 
 class StdevFunc:

@@ -1,6 +1,10 @@
 #!/bin/bash
 
-# whoami
+# """
+#Script for creating an sqlite dump without data from a mysql database
+#Created in 2025
+#@author: Nico Röttcher
+#"""
 
 # Check if an environment name is provided
 if [ "$#" -lt 6 ]; then #[ -z "$1" ]; then

@@ -1,6 +1,6 @@
 """
-Scripts for preparing export of data and files for publication or development
-Created in 2023
+Scripts for preparing a tracked export of data and files for publication or development
+Created in 2025
 @author: Nico Röttcher
 """
 

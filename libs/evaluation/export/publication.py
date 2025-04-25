@@ -1,3 +1,10 @@
+"""
+Scripts for a export of data and files for publication
+Created in 2025
+@author: Nico Röttcher
+"""
+
+
 import os
 import warnings
 from pathlib import Path

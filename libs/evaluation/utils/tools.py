@@ -12,6 +12,8 @@ import numpy as np
 import importlib.util
 import sys
 import zipfile
+from pathlib import Path
+
 
 def check_type(
     name,
@@ -393,7 +395,7 @@ def zipfiles(zip_dst, src_files, compresslevel=5):
 
     with zipfile.ZipFile(zip_dst, "w", zipfile.ZIP_DEFLATED, compresslevel=compresslevel) as archive:
         for filename in src_files:
-            archive.write(filename)
+            archive.write(filename, arcname=Path(filename).name)
 
 
 def unzipfiles(zip_src, dst_path='.'):
@@ -406,5 +408,5 @@ def unzipfiles(zip_src, dst_path='.'):
     :return:
     """
     with zipfile.ZipFile(zip_src, 'r') as zip_ref:
-        zip_ref.extractall(dst_path)
+        zip_ref.extractall(path=dst_path)
 

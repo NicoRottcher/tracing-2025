@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# """
+#Script for exporting an mysql for download pruposes
+#Created in 2025
+#@author: Nico Röttcher
+#"""
+
 if [ "$#" -lt 6 ]; then #[ -z "$1" ]; then
     echo "Usage: $0 <db_session_name>
                     <db_session_name_doc>

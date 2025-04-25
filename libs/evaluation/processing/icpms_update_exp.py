@@ -759,7 +759,6 @@ def update_counts_internalstandard_fitted(
                ;""",
             params=[int(exp_icpms_ML.iloc[0].id_exp_icpms_calibration_set)],
             con=con,
-            method="sqlalchemy",
         ).id_exp_icpms.values
         data_calibration = db.query_sql(
             """SELECT * 
