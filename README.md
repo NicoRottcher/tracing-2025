@@ -12,4 +12,4 @@ The repository will includes:
 
 The repository is based on a previously published data management:
 - Research article introducing the tool: N. C. Röttcher, G. D. Akkoç, S. Finger, B. Fritsch, J. Möller, K. J. J. Mayrhofer, D. Dworschak, Accelerating Materials Research with a Comprehensive Data Management Tool: A Case Study on an Electrochemical Laboratory. J. Mater. Chem. A 2024. https://doi.org/10.1039/D3TA06247C.
-- Example repository with detailed explanation: https://github.com/NicoRottcher/research-data-management-tool
+- Corresponding repository with detailed explanation: https://github.com/NicoRottcher/research-data-management-tool
