@@ -1,7 +1,7 @@
 
 # Repository for: Tracing Iridium Dissolution Pathways in Proton Exchange Membrane Water Electrolyzers at Relevant Current Densities in Real Time
 
-Accompanying repository for the publication: Nico C. Röttcher, J. Zhou, L. Löttert, Karl J. J. Mayrhofer, and Dominik Dworschak "Tracing Iridium Dissolution Pathways in Proton Exchange Membrane Water Electrolyzers at Relevant Current Densities in Real Time", 2025, submitted.
+Accompanying repository for the publication: Nico C. Röttcher, J. Zhou, L. Löttert, Karl J. J. Mayrhofer, and Dominik Dworschak "Tracing Iridium Dissolution Pathways in Proton Exchange Membrane Water Electrolyzers at Relevant Current Densities in Real Time", 2025, accepted.
 
 The repository will includes:
 
