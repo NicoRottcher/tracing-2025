@@ -1,0 +1,16 @@
+,id_exp,material,sample_type,manufacturer,sample_size__mm2,t_duration_protocol,protocol,j_grav__mA_mgIr,T__degreeC,author,figure,source
+0,1,IrO2,sputtered film,home,0.007853982,5-10 min,hold,,,Geiger,Fig7b,10.1038/s41929-018-0085-6
+1,2,IrO2,powder thin film,?,?,5-10 min,hold,,,Geiger,Fig7a,10.1038/s41929-018-0085-6
+2,3,IrOx,powder thin film,?,?,5-10 min,hold,,,Geiger,Fig7a,10.1038/s41929-018-0085-6
+3,4,IrO2/TiO2,powder thin film,Umicore,?,5 min,hold,20.0,,Pham,Fig5d,10.1016/j.apcatb.2020.118762
+4,5,IrO2/TiO2,powder thin film,Umicore,?,~100s,ramp,20.0,,Pham,Fig5d,10.1016/j.apcatb.2020.118762
+5,6,IrOx,powder thin film,AlfaAesar,?,5 min,hold,100.0,,Pham,Fig5d,10.1016/j.apcatb.2020.118762
+6,7,IrOx,powder thin film,AlfaAesar,?,~100s,ramp,100.0,,Pham,Fig5d,10.1016/j.apcatb.2020.118762
+7,8,IrO2/TiO2,PTE,Umicore,?,30 min,hold1,1000.0,60.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+8,9,IrO2/TiO2,PTE,Umicore,?,30 min,hold1,1000.0,20.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+9,10,IrO2/TiO2,PTE,Umicore,?,30 min,hold1,100.0,20.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+10,11,IrO2/TiO2,PTE,Umicore,?,30 min,hold2,1000.0,60.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+11,12,IrO2/TiO2,PTE,Umicore,?,30 min,hold2,1000.0,20.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+12,13,IrO2/TiO2,PTE,Umicore,?,30 min,hold2,100.0,20.0,Geuss,Fig2C,10.1021/acscatal.4c02159
+13,14,IrOx,h-CCM,AlfaAesar,24.85 cm2,60 min,hold,,80.0,Dam,Fig6a,10.2139/ssrn.4943379
+14,15,IrOx,PTE,AlfaAesar,?,30min,hold2,100.0,20.0,Geuss,Fig6a,10.1021/acscatal.4c02159

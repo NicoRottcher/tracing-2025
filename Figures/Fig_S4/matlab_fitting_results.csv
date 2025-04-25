@@ -1,0 +1,5 @@
+id_sample,id_spot,icpms_location,id_exp_icpms,name_isotope_analyte,name_isotope_internalstandard,weight,method,a,b,s,tau,sigma,xc,xmin,xmax,x_signal_min,x_signal_max,fit_Rsquared,fit_weight_factor,m_Ti47_dissolved_data__g,m_Ti47_dissolved_fit__g,integrated_mass_fit_to_data
+179,5,bottom,737.0,Ir193,Re187,weighted,matlab,3518.238458,6722.699718,8.16e-13,23.32931501,0.521416342,14.075634629999998,13.057,833.757,100.465,520.366,,,,,
+179,7,top,709.0,Ir193,Re187,weighted,matlab,143.1100487,0.084540689,13.27754592,8.083010695,3.08809947,21.521853900000004,12.668,833.368,100.401,520.302,,,,,
+179,8,top,709.0,Ir193,Re187,weighted,matlab,95.93070587,0.029187924,10.7239419,8.810531797,2.54270409,19.83217826,13.185,833.885,100.54,520.441,,,,,
+179,10,bottom,737.0,Ir193,Re187,weighted,matlab,5.687508047,1.779514891,2.22e-14,13.12481166,0.847608389,13.68680802,12.742,833.442,100.412,520.313,,,,,
