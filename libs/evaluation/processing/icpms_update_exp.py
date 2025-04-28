@@ -1196,7 +1196,6 @@ def update_counts_internalstandard_fitted(
                WHERE id_exp_icpms=%s
             ;""",
             params=[str(id_exp_icpms)],
-            method="sqlalchemy",
         ).values[0][0]
         button_upload_update = "Update ISTD fit data in database"
         button_upload_insert = "Insert ISTD fit data in database"
